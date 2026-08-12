@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cobyjcohen2-cmyk.github.io/second-look-sports/sitemap.xml
